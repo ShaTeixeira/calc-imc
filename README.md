@@ -13,12 +13,7 @@ Projeto desenvolvido durante as aulas do curso de React da [B7Web](https://b7web
 
 ## Instalação
 
-```json
-
-/* instalar as dependencias */
+```
     - yarn
-
-/* rodar a aplicação */
     - yarn dev
-
 ```
